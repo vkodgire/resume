@@ -1,12 +1,12 @@
-# Carolyn Stransky
+# Vishwanath Kodgire
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Salesforce Developer/Consultant_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:vkodgire@gmail.com) / [LinkedIn](https://www.linkedin.com/in/vishwanath-kodgire/) / [GitHub](https://github.com/vkodgire/) 
 
 ## 👩🏼‍💻 Technical Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Technical Consultant** @ [TietoEVRY](https://tietoevry.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
