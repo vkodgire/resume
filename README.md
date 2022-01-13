@@ -45,7 +45,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 ## 👩🏼‍🎓 Education
 
 **Master of Science** in Information Systems Management at ASU specialized in Cloud Computing<br>
-[Arizona State University](https://www.asu.edu/) - Tempe, AZ, USA _(Aug 2021 2017 - Jul 2022)_ <br>
+[Arizona State University](https://www.asu.edu/) - Tempe, AZ, USA _(Aug 2021 - Jul 2022)_ <br>
 
 **Bachelor of Engineering** in Computer Engineering<br>
-[Pune University](https://www.unipune.ac.in/) - Pune, MH, India _(2014 - 2018)_
+[Pune University](https://www.unipune.ac.in/) - Pune, MH, India _(Jun 2014 - May 2018)_
